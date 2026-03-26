@@ -63,4 +63,7 @@ La superioridad de la Página B es **transversal**: es igual de efectiva captand
 *   **Visualización:** Matplotlib, Seaborn
 
 ---
-*Este análisis fue auditado y validado bajo el protocolo Antigravity del Cónclave de Ciencia de Datos.*
+*Autor: David Germán Ramos Rodríguez*
+https://www.linkedin.com/in/david-g-ramos/
+https://dataanalist-davidgramos.github.io/mi-sitio-web/
+
