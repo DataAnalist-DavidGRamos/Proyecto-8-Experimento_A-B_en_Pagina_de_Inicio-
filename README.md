@@ -63,7 +63,8 @@ La superioridad de la Página B es **transversal**: es igual de efectiva captand
 *   **Visualización:** Matplotlib, Seaborn
 
 ---
-*Autor: David Germán Ramos Rodríguez*
-https://www.linkedin.com/in/david-g-ramos/
-https://dataanalist-davidgramos.github.io/mi-sitio-web/
+## Autor
 
+David Germán Ramos Rodríguez
+[LinkedIn](https://www.linkedin.com/in/david-g-ramos/) |
+[Portfolio](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
